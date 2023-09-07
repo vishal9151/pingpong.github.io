@@ -1,4 +1,4 @@
-import "./styles.css";
+
 
 // document.getElementById("app").innerHTML = ``;
 var bar1 = document.getElementById("bar-1");
